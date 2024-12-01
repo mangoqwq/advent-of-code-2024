@@ -1,4 +1,4 @@
-# advent-of-code-2023
+# advent-of-code-2024
 
 Hope to get top hundred again ＼＼٩(๑`^´๑)۶//／／
 
