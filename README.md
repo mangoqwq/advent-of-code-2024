@@ -19,7 +19,7 @@ Hope to get top hundred again ＼＼٩(๑`^´๑)۶//／／
 | 11  | Plutonian Pebbles     | 00:03:15 / 265th | 00:07:14 / 143rd  | 0 + 0 = 0    | >100th      |
 | 12  | Garden Groups         | 00:05:13 / 286th | 00:11:13 / 20th   | 0 + 81 = 81  | >100th      |
 | 13  | Claw Contraption      | 00:11:02 / 729th | 00:37:00 / 1431st | 0 + 0 = 0    | >100th      |
-| 14  |                       |                  |                   |              |             |
+| 14  | Restroom Redoubt      | 00:07:01 / 294th | 00:13:44 / 57th   | 0 + 44 = 44  | >100th      |
 | 15  |                       |                  |                   |              |             |
 | 16  |                       |                  |                   |              |             |
 | 17  |                       |                  |                   |              |             |
