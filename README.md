@@ -21,7 +21,7 @@ Hope to get top hundred again ＼＼٩(๑`^´๑)۶//／／
 | 13  | Claw Contraption      | 00:11:02 / 729th | 00:37:00 / 1431st | 0 + 0 = 0     | >100th      |
 | 14  | Restroom Redoubt      | 00:07:01 / 294th | 00:13:44 / 57th   | 0 + 44 = 44   | >100th      |
 | 15  | Warehouse Woes        | 00:08:03 / 57th  | 00:25:56 / 41st   | 44 + 60 = 104 | 99th        |
-| 16  |                       |                  |                   |               |             |
+| 16  | Reindeer Maze         | 00:05:01 / 197th | 00:11:29 / 69th   | 0 + 32 = 32   | 97th        |
 | 17  |                       |                  |                   |               |             |
 | 18  |                       |                  |                   |               |             |
 | 19  |                       |                  |                   |               |             |
