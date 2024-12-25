@@ -30,4 +30,4 @@ Hope to get top hundred again ＼＼٩(๑`^´๑)۶//／／
 | 22  | Monkey Market          | 00:03:05 / 161st   | 00:21:32 / 385th  | 0 + 0 = 0     | >100th      |
 | 23  | LAN Party              | 00:04:39 / 340th   | 00:10:18 / 289th  | 0 + 0 = 0     | >100th      |
 | 24  | Crossed Wires          | >24h / 19979th     | >24h / 11929th    | 0 + 0 = 0     | >100th      |
-| 25  |                        |                    |                   |               |             |
+| 25  | Code Chronicle         | 16:52:49 / 16408th | 16:52:53 / 9968th | 0 + 0 = 0     | >100th      |
